@@ -2,8 +2,7 @@ FROM python:3.6
 
 WORKDIR  /etc/chatbot
 
-COPY requirements.txt .
-RUN pip install --upgrade setuptools && pip install sklearn sklearn_crfsuite tensorflow rasa_nlu && mkdir ./models
+RUN pip install --upgrade setuptools && pip install scipy sklearn sklearn_crfsuite tensorflow rasa_nlu && mkdir ./models
 
 COPY config.yaml .
 COPY models ./models
