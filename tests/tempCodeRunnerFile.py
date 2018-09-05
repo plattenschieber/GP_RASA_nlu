@@ -1,1 +1,0 @@
-path = "./models/chatbot/" + next(os.walk('./models/chatbot'))[1][0] + "/"

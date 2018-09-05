@@ -15,10 +15,25 @@ Es reicht den *intents* Ordner mit neuen Intents zu füllen und danach das Train
 ```bash
 python train_nlu.py
 ```
+Zum lokalen starten eines http-server kann folgender Befehl verwendet werden:
+```bash
+python -m rasa_nlu.server --path models/ -c config.yaml --pre_load default
+```
+Eine Nachricht kann an den Server mit curl geschickt werden.
+```bash
+curl -XPOST localhost:5000/parse -d '{"q":"hallo"}'
+```
+Und Informationen hat der Server auf folgenden adressen:
+* /config
+* /status
 
 ### Installation
 
 Zur Installation empfiehlt sich den offiziellen Anweisungen zu folgen, diese sind unter [NLU Installation](http://www.rasa.com/docs/nlu/installation/) zu finden.
+Zusätzlich steht einen requirements.txt File bereit. diese kann installiert werden, so werden alle benötigten Packete direkt installiert.
+```bash
+pip install -r requirements.txt
+```
 
 ## Testen
 
