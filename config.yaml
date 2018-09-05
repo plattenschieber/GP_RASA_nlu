@@ -1,0 +1,3 @@
+#Configurationfile for NLU
+language: en
+pipeline: tensorflow_embedding
