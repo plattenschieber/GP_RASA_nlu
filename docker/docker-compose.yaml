@@ -2,12 +2,7 @@ version: '3'
 
 services: 
   chatbot-nlu: 
-    image: rasa/rasa_nlu:latest-full
-    volumes:
-      #Temporäre Pfade zu den verschiedenen Volumes
-        - "./models/:/app/projects"
-        - "./docker/logs:/app/logs"
-        - "./docker/data:/app/data"
+    image: nlu
     restart: always
     networks:
       - chatbot
