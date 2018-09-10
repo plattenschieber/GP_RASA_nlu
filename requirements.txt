@@ -3,4 +3,4 @@ rasa_nlu[tensorflow] == 0.13.1
 #Module for testing
 pytest == 3.7.4
 #Module to start a local nlu webserver
-pypiwin32 == 223
+pypiwin32 == 223	# Works only for Windows!
