@@ -1,7 +1,7 @@
 from rasa_nlu.model import Metadata, Interpreter
 import pytest
 import os
-path = "./models/chatbot/" + next(os.walk('./models/chatbot'))[1][0] + "/"
+path = "./models/default/" + next(os.walk('./models/default'))[1][0] + "/"
 interpreter = Interpreter.load(path)
 
 
