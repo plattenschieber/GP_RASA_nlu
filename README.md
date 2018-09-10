@@ -1,3 +1,6 @@
+# ERFOLG
+Wir hatten Erfolg
+
 # Rasa-NLU
 Projekt zum erstellen eines Modells, welches natürliche Sprache erkennt und diese in intents umwandelt.
 
