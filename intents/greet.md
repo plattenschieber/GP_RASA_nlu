@@ -3,3 +3,9 @@
 - hallo
 - morgen
 - guten Tag
+- hey
+- huhu
+- nabend
+- guten abend
+- mahlzeit
+- jo
