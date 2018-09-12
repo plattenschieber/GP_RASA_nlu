@@ -1,6 +1,3 @@
-# ERFOLG
-Wir hatten Erfolg
-
 # Rasa-NLU
 Projekt zum erstellen eines Modells, welches natürliche Sprache erkennt und diese in intents umwandelt.
 
@@ -43,4 +40,12 @@ pip install -r requirements.txt
 Zum Testen müssen im Ordner *tests*, Tests erstellt werden. Es empfiehlt sich für jeden Intent ein eigenes Testfile anzulegen. Wichtig dabei ist, dass die Files mit *test_* beginnen müssen.
 ```bash
 py.test
+```
+## Docker
+Diesem Projekt liegt eine Dockerfile und ein Docker-Compose bei, diese stellen das Projekt als Docker-Container zu Verfügung.
+Um das Image zu bauen und zu starten müssen die folgenden Befehle ausgeführt werden.
+
+```bash
+docker build -t chatbot-nlu .
+docker-compose -p gpb -f docker/docker-compose.yaml up
 ```
