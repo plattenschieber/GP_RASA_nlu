@@ -2,6 +2,5 @@ version: '3'
 
 services: 
   chatbot-nlu: 
-    image: chatbot-nlu
-    restart: always
+    image: docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu:latest
    
