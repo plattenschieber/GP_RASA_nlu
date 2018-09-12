@@ -2,13 +2,6 @@ version: '3'
 
 services: 
   chatbot-nlu: 
-    image: nlu
+    image: chatbot-nlu
     restart: always
-    networks:
-      - chatbot
-    ports:
-      - 5000:5000
-networks:
-  chatbot:
-    external: true
    
