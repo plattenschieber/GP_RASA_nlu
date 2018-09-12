@@ -1,0 +1,21 @@
+## intent:set_form_of_address
+- [herr](form_of_address)
+- als [herr](form_of_address)
+- sie können mich als [herr](form_of_address) ansprechen
+- andrede [herr](form_of_address)
+- meine andere ist [herr](form_of_address)
+- [frau](form_of_address)
+- als [frau](form_of_address)
+- sie können mich als [frau](form_of_address) ansprechen
+- andrede [frau](form_of_address)
+- meine andere ist [frau](form_of_address)
+- [dr](form_of_address)
+- als [dr](form_of_address)
+- sie können mich als [dr](form_of_address) ansprechen
+- andrede [dr](form_of_address)
+- meine andere ist [doktor](form_of_address)
+- [doktor](form_of_address)
+- als [doktor](form_of_address)
+- sie können mich als [doktor](form_of_address) ansprechen
+- andrede [doktor](form_of_address)
+- meine andere ist [doktor](form_of_address)
