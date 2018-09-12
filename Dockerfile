@@ -4,8 +4,9 @@ WORKDIR  /etc/chatbot
 
 RUN pip install --upgrade setuptools && pip install scipy sklearn sklearn_crfsuite tensorflow rasa_nlu && mkdir ./models
 
-COPY config.yaml .
-COPY models ./models
+COPY . /nlu
+WORKDIR /nlu
+RUN python ./src/train_nlu.py
 
 EXPOSE 5000
 
