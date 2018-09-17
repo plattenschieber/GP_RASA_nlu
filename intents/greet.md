@@ -9,3 +9,10 @@
 - guten abend
 - mahlzeit
 - jo
+- moin
+- tach
+- tag
+- ho
+- blah
+- blub
+

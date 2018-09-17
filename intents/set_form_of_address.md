@@ -1,4 +1,4 @@
-## intent:set_form_of_address
+﻿## intent:set_form_of_address
 - [herr](form_of_address)
 - als [herr](form_of_address)
 - sie können mich als [herr](form_of_address) ansprechen
@@ -19,3 +19,18 @@
 - sie können mich als [doktor](form_of_address) ansprechen
 - andrede [doktor](form_of_address)
 - meine andere ist [doktor](form_of_address)
+- [Herr](form_of_address)
+
+## lookup:address   
+- herr
+- Herr
+- frau
+- Frau
+- dr.
+- Dr.
+- Doktor
+- doktor
+- Prof.
+- Professor
+- prof.
+- professor

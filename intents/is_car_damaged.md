@@ -1,4 +1,4 @@
-## intent:is_car_damaged
+﻿## intent:is_car_damaged
 - [falsch](car_is_damaged)
 - [nein](car_is_damaged)
 - eigenes Auto [unbeschädigt](car_is_damaged)
@@ -20,3 +20,5 @@
 - [ja](car_is_damaged), mein Auto ist beschädigt
 - [ja](car_is_damaged), mein Auto wurde beschädigt
 - [ja](car_is_damaged), eigenes Auto wurde beschädigt
+- Fahrzeugbeschäfigung [true](car_is_damaged)
+- Fahrzeugbeschäfigung [false](car_is_damaged)

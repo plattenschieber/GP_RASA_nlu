@@ -7,3 +7,5 @@
 - [nein](business_affair)
 - [falsch](business_affair)
 - [nein](business_affair) es handelt sich nicht um eine gewerbliche angelegenheit
+- geschäftsangelegenheit [true](business_affair)
+- geschäftsangelegenheit [false](business_affair)
