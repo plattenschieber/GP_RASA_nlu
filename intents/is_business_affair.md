@@ -1,4 +1,4 @@
-## intent:is_business_affair
+ ## intent:is_business_affair
 - [ja](business_affair)
 - [richtig](business_affair)
 - [ja](business_affair) es handelt sich um eine gewerbliche angelegenheit
@@ -7,5 +7,5 @@
 - [nein](business_affair)
 - [falsch](business_affair)
 - [nein](business_affair) es handelt sich nicht um eine gewerbliche angelegenheit
-- geschäftsangelegenheit [true](business_affair)
-- geschäftsangelegenheit [false](business_affair)
+- geschaeftsangelegenheit [true](business_affair)
+- geschaeftsangelegenheit [false](business_affair)

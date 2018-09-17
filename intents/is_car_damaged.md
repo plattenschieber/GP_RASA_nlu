@@ -20,5 +20,5 @@
 - [ja](car_is_damaged), mein Auto ist beschädigt
 - [ja](car_is_damaged), mein Auto wurde beschädigt
 - [ja](car_is_damaged), eigenes Auto wurde beschädigt
-- Fahrzeugbeschäfigung [true](car_is_damaged)
-- Fahrzeugbeschäfigung [false](car_is_damaged)
+- Fahrzeugbeschaedigung [true](car_is_damaged)
+- Fahrzeugbeschaedigung [false](car_is_damaged)
