@@ -1,4 +1,4 @@
-# Rasa-NLU
+﻿# Rasa-NLU
 Projekt zum erstellen eines Modells, welches natürliche Sprache erkennt und diese in intents umwandelt.
 
 ## Dateien
@@ -13,7 +13,7 @@ Projekt zum erstellen eines Modells, welches natürliche Sprache erkennt und die
 
 Es reicht den *intents* Ordner mit neuen Intents zu füllen und danach das Training zu starten.
 ```bash
-python train_nlu.py
+python src/train_nlu.py
 ```
 Zum lokalen starten eines http-server kann folgender Befehl verwendet werden:
 ```bash

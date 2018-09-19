@@ -1,5 +1,6 @@
 #Module for usage of rasa nlu with tensorflow
 rasa_nlu[tensorflow] == 0.13.1
+spacy == 2.0.12
 #Module for testing
 pytest == 3.7.4
 #Module to start a local nlu webserver
