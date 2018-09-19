@@ -1,4 +1,17 @@
 ## intent:deny
 - nein
+- Nein
 - falsch
+- Falsch
 - deny
+- Deny
+- noe
+- Noe
+- unfug
+- Unfug
+- ne
+- Ne
+- nee
+- Nee
+- quatsch
+- Quatsch

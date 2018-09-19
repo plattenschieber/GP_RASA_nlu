@@ -1,18 +1,37 @@
 ## intent:greet
 - hi
+- Hi
 - hallo
+- Hallo
 - morgen
+- Morgen
 - guten Tag
+- Guten Tag
+- guten tag
 - hey
+- Hey
 - huhu
+- Huhu
 - nabend
+- Nabend
 - guten abend
+- Guten Abend
+- guten Abend
+- Guten abend
 - mahlzeit
-- jo
+- Mahlzeit
 - moin
+- Moin
 - tach
+- Tach
 - tag
+- Tag
 - ho
+- Ho
+- hoi
+- Hoi
 - blah
+- Blah
 - blub
+- Blub
 
