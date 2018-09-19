@@ -34,6 +34,10 @@ Zusätzlich steht einen requirements.txt File bereit. diese kann installiert wer
 ```bash
 pip install -r requirements.txt
 ```
+Zusätzlich muss für spacy noch das deutsche Sprachpaket installiert werden mit
+```bash
+python -m spacy download de
+```
 
 ## Testen
 

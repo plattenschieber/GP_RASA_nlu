@@ -14,4 +14,4 @@ RUN python ./src/train_nlu.py
 
 EXPOSE 5000
 
-ENTRYPOINT exec python -m rasa_nlu.server --path models/ -c config.yaml --pre_load default
+ENTRYPOINT exec python -m rasa_nlu.server --path models/ -c config.yaml --pre_load all

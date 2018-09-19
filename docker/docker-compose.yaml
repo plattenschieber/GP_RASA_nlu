@@ -6,6 +6,8 @@ services:
     networks:
       - chatbot
       - nlu
+    ports:
+      - "5000:5000"
   duckling:
     image: rasa/duckling:latest
     networks:
