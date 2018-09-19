@@ -33,7 +33,6 @@ Zur Installation empfiehlt sich den offiziellen Anweisungen zu folgen, diese sin
 Zusätzlich steht einen requirements.txt File bereit. diese kann installiert werden, so werden alle benötigten Packete direkt installiert.
 ```bash
 pip install -r requirements.txt
-python -m spacy download de
 
 ```
 Zusätzlich muss für spacy noch das deutsche Sprachpaket installiert werden mit
