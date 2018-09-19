@@ -53,6 +53,9 @@ public class PlanSpec {
                             .imageName("docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu:latest")
                             .useCache(true)
                             .dockerfileInWorkingDir(),
+                        new ScriptTask()
+                            .description("Create commit hash variable file")
+                            .inlineBody("echo \"hello world\""),
                         new DockerPushImageTask()
                             .customRegistryImage("docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu:latest")
                             .defaultAuthentication())))
