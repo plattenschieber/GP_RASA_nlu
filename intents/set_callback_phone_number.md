@@ -1,0 +1,11 @@
+## intent:set_callback_phone_number
+- [2345678](callback_phone_number)
+- unter der rueckrufnummer [2345678](callback_phone_number)
+- [2345678](callback_phone_number)
+- mit der rueckrufnr [2345678](callback_phone_number)
+- mit der rueckrufnummer [2345678](callback_phone_number)
+- meine rueckrufnummer ist [2345678](callback_phone_number)
+- meine rueckruftelefonnummer ist [2345678](callback_phone_number)
+- meine rueckruftelefonnr ist [2345678](callback_phone_number)
+- unter der rueckruftelefonnr [2345678](callback_phone_number)
+- unter der rueckruftelefonnummer [2345678](callback_phone_number)
