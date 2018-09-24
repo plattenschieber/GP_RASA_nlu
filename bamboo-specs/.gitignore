@@ -1,3 +1,5 @@
+.credentials
+
 ### Maven
 target/
 pom.xml.tag
