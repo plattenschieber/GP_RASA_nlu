@@ -10,4 +10,4 @@ def train(data = './intents', config_file = 'config.yaml', model_dir = 'models/'
     model_directory = trainer.persist(
         model_dir, project_name=project)
 
-train(project="damage_report_1.0.0")
+train(project="damage_report_1.0.0") 

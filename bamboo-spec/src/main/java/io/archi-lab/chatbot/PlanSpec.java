@@ -37,7 +37,7 @@ public class PlanSpec {
             .pluginConfigurations(new ConcurrentBuilds()
                 .useSystemWideDefault(false))
             .stages(new Stage("Default Stage")
-                .jobs(new Job("Defaultttt Job",
+                .jobs(new Job("Defaultt Job",
                     new BambooKey("JOB1"))
                     .artifacts(new Artifact()
                         .name("docker-compose-file")
