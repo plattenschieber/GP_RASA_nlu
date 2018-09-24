@@ -79,12 +79,11 @@ public class PlanSpec {
     }
 
     public PlanPermissions planPermission() {
-        final PlanPermissions planPermission =
-                new PlanPermissions(new PlanIdentifier("CHAT", "NLU")).permissions(new Permissions()
-                        .userPermissions("jlengelsen", PermissionType.EDIT, PermissionType.VIEW,
-                                PermissionType.ADMIN, PermissionType.CLONE, PermissionType.BUILD)
-                        .loggedInUserPermissions(PermissionType.VIEW)
-                        .anonymousUserPermissionView());
+        final PlanPermissions planPermission = new PlanPermissions(new PlanIdentifier("CHAT", "NLU"))
+            .permissions(new Permissions()
+                .userPermissions("bamboo", PermissionType.ADMIN, PermissionType.VIEW, PermissionType.CLONE, PermissionType.BUILD, PermissionType.EDIT)
+                .loggedInUserPermissions(PermissionType.VIEW)
+                .anonymousUserPermissionView());
         return planPermission;
     }
 
