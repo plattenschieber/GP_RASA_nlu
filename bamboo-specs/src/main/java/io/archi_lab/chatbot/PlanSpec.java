@@ -36,9 +36,6 @@ public class PlanSpec {
                         .pluginConfigurations(new ConcurrentBuilds().useSystemWideDefault(false))
                         .stages(new Stage("Default Stage")
                                 .jobs(new Job("Default Job", new BambooKey("JOB1")).artifacts(
-                                        new Artifact().name("docker-compose-prod")
-                                                .copyPattern("docker-compose.prod.yaml")
-                                                .location("./docker").shared(true).required(true),
                                         new Artifact().name("docker-compose")
                                                 .copyPattern("docker-compose.yaml")
                                                 .location("./docker").shared(true).required(true))
