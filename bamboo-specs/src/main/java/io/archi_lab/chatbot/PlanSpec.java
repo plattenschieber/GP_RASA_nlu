@@ -30,60 +30,68 @@ import com.atlassian.bamboo.specs.util.BambooServer;
 public class PlanSpec {
 
     public Plan plan() {
-        final Plan plan = new Plan(new Project()
-            .oid(new BambooOid("ky5ricqu8qv5"))
-            .key(new BambooKey("CHAT"))
-            .name("Chatbot"),
-            "nlu",
-            new BambooKey("NLU"))
-            .oid(new BambooOid("kxw2ardmf01u"))
-            .description("Build the NLU app")
-            .pluginConfigurations(new ConcurrentBuilds()
-                .useSystemWideDefault(false))
-                .tasks(new VcsCheckoutTask()
-                .description("Checkout the repository")
-                .checkoutItems(new CheckoutItem().defaultRepository()),
-            new ScriptTask()
-                .description("Create commit hash variable file")
-                .inlineBody("echo \"commit-hash=$(date +%s%N)\" > ./commit-hash"),
-            new InjectVariablesTask()
-                .description("Inject the commit hash variable")
-                .path("./commit-hash")
-                .namespace("inject")
-                .scope(InjectVariablesScope.RESULT),
-            new DockerBuildImageTask()
-                .description("Build the Docker image")
-                .imageName("docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu")
-                .useCache(true)
-                .dockerfileInWorkingDir(),
-            new ScriptTask()
-                .description("Tag the Docker image with commit hash")
-                .inlineBody("docker tag docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu:${bamboo.inject.commit-hash}"),
-            new DockerPushImageTask()
-                .customRegistryImage("docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu")
-                .defaultAuthentication(),
-            new DockerPushImageTask()
-                .customRegistryImage("docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu:${bamboo.inject.commit-hash}")
-                .defaultAuthentication(),
-            new ScriptTask()
-                .description("Remove old images from Nexus Docker repository")
-                .inlineBody("echo \"# Nexus Credentials\\nnexus_host = \\\"https://nexus.gpchatbot.archi-lab.io\\\"\\nnexus_username = \\\"bamboo\\\"\\nnexus_password = \\\"gpchatbot\\\"\\nnexus_repository = \\\"docker-hosted\\\"\" > .credentials\nnexus-cli image delete -name chatbot/nlu -keep 21"))
-        .requirements(new Requirement("system.builder.command.nexus-cli"))))
-            .linkedRepositories("chatbot-nlu (master)")
+        final Plan plan = new Plan(new Project().oid(new BambooOid("ky5ricqu8qv5"))
+                .key(new BambooKey("CHAT")).name("Chatbot"), "nlu", new BambooKey("NLU"))
+                        .oid(new BambooOid("kxw2ardmf01u"))
+                        .pluginConfigurations(new ConcurrentBuilds().useSystemWideDefault(false))
+                        .stages(new Stage("Default Stage")
+                                .jobs(new Job("Default Job", new BambooKey("JOB1")).artifacts(
+                                        new Artifact().name("docker-compose-prod")
+                                                .copyPattern("docker-compose.prod.yaml")
+                                                .location("./docker").shared(true).required(true),
+                                        new Artifact().name("docker-compose")
+                                                .copyPattern("docker-compose.yaml")
+                                                .location("./docker").shared(true).required(true))
+                                        .tasks(new VcsCheckoutTask()
+                                                .description("Checkout the repository")
+                                                .checkoutItems(
+                                                        new CheckoutItem().defaultRepository()),
+                                                new ScriptTask()
+                                                        .description(
+                                                                "Create commit hash variable file")
+                                                        .inlineBody(
+                                                                "echo \"commit-hash=$(date +%s%N)\" > ./commit-hash"),
+                                                new InjectVariablesTask()
+                                                        .description(
+                                                                "Inject the commit hash variable")
+                                                        .path("./commit-hash").namespace("inject")
+                                                        .scope(InjectVariablesScope.RESULT),
+                                                new DockerBuildImageTask()
+                                                        .description("Build the Docker image")
+                                                        .imageName(
+                                                                "docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu")
+                                                        .useCache(true).dockerfileInWorkingDir(),
+                                                new ScriptTask().description(
+                                                        "Tag the Docker image with commit hash")
+                                                        .inlineBody(
+                                                                "docker tag docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu:${bamboo.inject.commit-hash}"),
+                                                new DockerPushImageTask().customRegistryImage(
+                                                        "docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu")
+                                                        .defaultAuthentication(),
+                                                new DockerPushImageTask().customRegistryImage(
+                                                        "docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu:${bamboo.inject.commit-hash}")
+                                                        .defaultAuthentication(),
+                                                new ScriptTask().description(
+                                                        "Remove old images from Nexus Docker repository")
+                                                        .inlineBody(
+                                                                "echo \"# Nexus Credentials\\nnexus_host = \\\"https://nexus.gpchatbot.archi-lab.io\\\"\\nnexus_username = \\\"bamboo\\\"\\nnexus_password = \\\"gpchatbot\\\"\\nnexus_repository = \\\"docker-hosted\\\"\" > .credentials\nnexus-cli image delete -name chatbot/nlu -keep 21"))
+                                        .requirements(new Requirement(
+                                                "system.builder.command.nexus-cli"))))
+                        .linkedRepositories("chatbot-nlu (master)")
 
-            .triggers(new BitbucketServerTrigger())
-            .planBranchManagement(new PlanBranchManagement()
-                .delete(new BranchCleanup())
-                .notificationForCommitters());
+                        .triggers(new BitbucketServerTrigger())
+                        .planBranchManagement(new PlanBranchManagement().delete(new BranchCleanup())
+                                .notificationForCommitters());
         return plan;
     }
 
     public PlanPermissions planPermission() {
-        final PlanPermissions planPermission = new PlanPermissions(new PlanIdentifier("CHAT", "NLU"))
-            .permissions(new Permissions()
-                .userPermissions("bamboo", PermissionType.ADMIN, PermissionType.VIEW, PermissionType.CLONE, PermissionType.BUILD, PermissionType.EDIT)
-                .loggedInUserPermissions(PermissionType.VIEW)
-                .anonymousUserPermissionView());
+        final PlanPermissions planPermission =
+                new PlanPermissions(new PlanIdentifier("CHAT", "NLU")).permissions(new Permissions()
+                        .userPermissions("bamboo", PermissionType.ADMIN, PermissionType.VIEW,
+                                PermissionType.CLONE, PermissionType.BUILD, PermissionType.EDIT)
+                        .loggedInUserPermissions(PermissionType.VIEW)
+                        .anonymousUserPermissionView());
         return planPermission;
     }
 
