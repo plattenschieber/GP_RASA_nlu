@@ -37,7 +37,7 @@ public class PlanSpec {
             .pluginConfigurations(new ConcurrentBuilds()
                 .useSystemWideDefault(false))
             .stages(new Stage("Default Stage")
-                .jobs(new Job("Defaultt Job",
+                .jobs(new Job("Default Job",
                     new BambooKey("JOB1"))
                     .artifacts(new Artifact()
                         .name("docker-compose-file")
@@ -56,6 +56,9 @@ public class PlanSpec {
                         new ScriptTask()
                             .description("Create commit hash variable file")
                             .inlineBody("echo \"hello world\""),
+                            new ScriptTask()
+                                    .description("Create commit hash variable file")
+                                    .inlineBody("echo \"hello world AGAIN!\""),
                         new DockerPushImageTask()
                             .customRegistryImage("docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu:latest")
                             .defaultAuthentication())))
