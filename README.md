@@ -17,7 +17,7 @@ python src/train_nlu.py
 ```
 Zum lokalen starten eines http-server kann folgender Befehl verwendet werden:
 ```bash
-python -m rasa_nlu.server --path models/ -c config.yaml --pre_load default
+python -m rasa_nlu.server --path models/ -c config.yaml
 ```
 Eine Nachricht kann an den Server mit curl geschickt werden.
 ```bash
