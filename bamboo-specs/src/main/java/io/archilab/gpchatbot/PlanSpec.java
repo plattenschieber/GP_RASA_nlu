@@ -101,8 +101,8 @@ public class PlanSpec {
     return planPermission;
   }
 
-  public Deployment rootObject() {
-    final Deployment rootObject = new Deployment(new PlanIdentifier("CHAT", "NLU")
+  public Deployment deployment() {
+    final Deployment deployment = new Deployment(new PlanIdentifier("CHAT", "NLU")
         .oid(new BambooOid("kxw2ardmf01u")),
         "nlu-deployment")
         .oid(new BambooOid("ky8ja8kbwphf"))
@@ -120,7 +120,7 @@ public class PlanSpec {
                     .inlineBody(
                         "eval $(docker-machine env gpchatbotprod)\ndocker stack deploy --with-registry-auth -c ./artifacts/docker-compose.yaml nlu"))
             .triggers(new AfterSuccessfulBuildPlanTrigger()));
-    return rootObject;
+    return deployment;
   }
 
   public DeploymentPermissions deploymentPermission() {
@@ -155,8 +155,8 @@ public class PlanSpec {
     final PlanPermissions planPermission = planSpec.planPermission();
     bambooServer.publish(planPermission);
 
-    final Deployment rootObject = planSpec.rootObject();
-    bambooServer.publish(rootObject);
+    final Deployment deployment = planSpec.deployment();
+    bambooServer.publish(deployment);
 
     final DeploymentPermissions deploymentPermission = planSpec.deploymentPermission();
     bambooServer.publish(deploymentPermission);
