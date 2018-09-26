@@ -2,7 +2,6 @@ package io.archilab.gpchatbot;
 
 import com.atlassian.bamboo.specs.api.BambooSpec;
 import com.atlassian.bamboo.specs.api.builders.BambooKey;
-import com.atlassian.bamboo.specs.api.builders.BambooOid;
 import com.atlassian.bamboo.specs.api.builders.deployment.Deployment;
 import com.atlassian.bamboo.specs.api.builders.deployment.Environment;
 import com.atlassian.bamboo.specs.api.builders.deployment.ReleaseNaming;
@@ -39,13 +38,12 @@ import com.atlassian.bamboo.specs.util.BambooServer;
 public class PlanSpec {
 
   public Plan plan() {
-    final Plan plan = new Plan(new Project().oid(new BambooOid("ky5ricqu8qv5"))
+    final Plan plan = new Plan(new Project()
         .key(new BambooKey("CHAT")).name("Chatbot"), "nlu", new BambooKey("NLU"))
-        .oid(new BambooOid("kxw2ardmf01u"))
         .pluginConfigurations(new ConcurrentBuilds().useSystemWideDefault(false))
         .stages(new Stage("Default Stage")
-            .jobs(new Job("Default Job", new BambooKey("JOB1")).artifacts(
-                new Artifact().name("docker-compose")
+            .jobs(new Job("Default Job", new BambooKey("JOB1"))
+                .artifacts(new Artifact().name("docker-compose")
                     .copyPattern("docker-compose.yaml")
                     .location("./docker").shared(true).required(true))
                 .tasks(new VcsCheckoutTask()
@@ -101,11 +99,9 @@ public class PlanSpec {
     return planPermission;
   }
 
-  public Deployment rootObject() {
-    final Deployment rootObject = new Deployment(new PlanIdentifier("CHAT", "NLU")
-        .oid(new BambooOid("kxw2ardmf01u")),
+  public Deployment deployment() {
+    final Deployment deployment = new Deployment(new PlanIdentifier("CHAT", "NLU"),
         "nlu-deployment")
-        .oid(new BambooOid("ky8ja8kbwphf"))
         .releaseNaming(new ReleaseNaming("release-33")
             .autoIncrement(true))
         .environments(new Environment("Production")
@@ -120,7 +116,7 @@ public class PlanSpec {
                     .inlineBody(
                         "eval $(docker-machine env gpchatbotprod)\ndocker stack deploy --with-registry-auth -c ./artifacts/docker-compose.yaml nlu"))
             .triggers(new AfterSuccessfulBuildPlanTrigger()));
-    return rootObject;
+    return deployment;
   }
 
   public DeploymentPermissions deploymentPermission() {
@@ -155,8 +151,8 @@ public class PlanSpec {
     final PlanPermissions planPermission = planSpec.planPermission();
     bambooServer.publish(planPermission);
 
-    final Deployment rootObject = planSpec.rootObject();
-    bambooServer.publish(rootObject);
+    final Deployment deployment = planSpec.deployment();
+    bambooServer.publish(deployment);
 
     final DeploymentPermissions deploymentPermission = planSpec.deploymentPermission();
     bambooServer.publish(deploymentPermission);

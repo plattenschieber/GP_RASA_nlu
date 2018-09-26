@@ -3,6 +3,8 @@ language: de
 pipeline:
 - name: "ner_duckling_http"
   url: "http://duckling:8000"
+  timezone: "Europe/Copenhange"
+  dimensions: [ "time", "phone-number", "email", "number"]
 - name: "nlp_spacy"
 - name: "ner_spacy"
 - name: "tokenizer_whitespace"

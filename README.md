@@ -17,7 +17,7 @@ python src/train_nlu.py
 ```
 Zum lokalen starten eines http-server kann folgender Befehl verwendet werden:
 ```bash
-python -m rasa_nlu.server --path models/ -c config.yaml --pre_load default
+python -m rasa_nlu.server --path models/ -c config.yaml
 ```
 Eine Nachricht kann an den Server mit curl geschickt werden.
 ```bash
@@ -52,5 +52,5 @@ Um das Image zu bauen und zu starten müssen die folgenden Befehle ausgeführt w
 
 ```bash
 docker build -t docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu .
-docker-compose -p gpb -f docker/docker-compose.yaml up
+docker-compose -p gpb -f docker/docker-compose.yaml up -d
 ```
