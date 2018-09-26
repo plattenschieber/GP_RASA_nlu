@@ -1,4 +1,13 @@
 ﻿## intent:set_first_name
-- [max](first_name)
-- mein vorname ist [max](first_name)
-- ich heiße [max](first_name)
+- Thomas
+- ich heiße Peter
+- mein name ist Julia
+- Max
+- ich heiße Sarah
+- mein name ist Julian
+- Marc
+- ich heiße Jan
+- mein name ist Laura
+- Sascha
+- ich heiße Marco
+- mein name ist Tim
