@@ -1,6 +1,17 @@
 ## intent:set_zip_code
-- meine plz lautet [12345](address_zip_code)
-- meine postleitzahl lautet [12345](address_zip_code)
-- [12345](address_zip_code)
-- plz [12345](address_zip_code)
-- postleitzahl ist [12345](address_zip_code)
+- 51674
+- 23456
+- 56789
+- 45634
+- 23414
+- 12345
+- 13453
+- 56756
+- 34567
+- 89977
+- 12323
+- 34564
+- 78656
+- 44356
+##regex:address_zip_code
+- [0-9]{5}

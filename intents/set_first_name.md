@@ -1,13 +1,14 @@
 ﻿## intent:set_first_name
-- Thomas
-- ich heiße Peter
-- mein name ist Julia
-- Max
-- ich heiße Sarah
-- mein name ist Julian
-- Marc
-- ich heiße Jan
-- mein name ist Laura
-- Sascha
-- ich heiße Marco
-- mein name ist Tim
+- [Thomas](first_name)
+- ich heiße [Peter](first_name)
+- mein name ist [Julia](first_name)
+- ich heiße [Sarah](first_name)
+- mein name ist [Julian](first_name)
+- [Marc](first_name)
+- ich heiße [Jan](first_name)
+- mein name ist [Lara](first_name)
+- [Sascha](first_name)
+- ich heiße [Marco](first_name)
+- mein name ist [Tim](first_name)
+- [Max](first_name)
+- ich heiße [Max](first_name)
