@@ -5,8 +5,6 @@ pipeline:
   url: "http://duckling:8000"
   timezone: "Europe/Copenhange"
   dimensions: [ "time", "phone-number", "email", "number"]
-- name: "nlp_spacy"
-- name: "ner_spacy"
 - name: "tokenizer_whitespace"
 - name: "ner_crf"
 - name: "intent_featurizer_count_vectors"
