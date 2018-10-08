@@ -3,7 +3,7 @@ language: de
 pipeline:
 - name: "ner_duckling_http"
   url: "http://duckling:8000"
-  timezone: "Europe/Copenhange"
+  timezone: "Europe/Berlin"
   dimensions: [ "time", "phone-number", "email", "number"]
 - name: "tokenizer_whitespace"
 - name: "ner_crf"

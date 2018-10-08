@@ -1,1 +1,32 @@
 ## intent:inform
+- [Thomas](first_name)
+- ich heiße [Peter](first_name)
+- mein name ist [Julia](first_name)
+- ich heiße [Sarah](first_name)
+- mein name ist [Julian](first_name)
+- [Marc](first_name)
+- ich heiße [Jan](first_name)
+- mein name ist [Lara](first_name)
+- [Sascha](first_name)
+- ich heiße [Marco](first_name)
+- mein name ist [Tim](first_name)
+- [Max](first_name)
+- ich heiße [Max](first_name)
+
+- heute
+- morgen
+- heute Nachmittag
+- um 1 Uhr
+- in drei Tagen
+- in zwei Wochen
+- Heute
+- Morgen
+- Heute Nachmittag 
+- Morgen um 1 Uhr
+- Morgen früh
+- morgen früh
+- morgen Nachmittag
+- morgen nachmittag
+- heute abend
+- morgen abend
+- morgen um 10
