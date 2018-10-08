@@ -1,12 +1,15 @@
 #Configurationfile for NLU
 language: de
 pipeline:
+- name: "tokenizer_whitespace"
 - name: "ner_duckling_http"
   url: "http://duckling:8000"
   timezone: "Europe/Berlin"
+  locale: "de_DE"
   dimensions: [ "time", "phone-number", "email", "number"]
-- name: "tokenizer_whitespace"
+- name: "intent_entity_featurizer_regex"
 - name: "ner_crf"
+- name: "ner_synonyms"
 - name: "intent_featurizer_count_vectors"
 - name: "intent_classifier_tensorflow_embedding"
   intent_tokenization_flag: true
