@@ -3684,6 +3684,7 @@
 - [+49152526915](telephone)
 - [+4715252691535](telephone)
 - [+47152526915](telephone)
+
 <!--Duckling Time-->
 - heute
 - morgen
@@ -3702,3 +3703,41 @@
 - heute abend
 - morgen abend
 - morgen um 10
+- gestern
+- vorgestern
+- gestern Nachmittag
+- gestern nachmittag
+- vorgestern abend
+- vorgestern Abend
+- abends
+- morgens
+<!--Duckling Phone-Number-->
+- Meine Telefonnummer lautet 0171 123456
+- Meine Telefonnummer lautet 02262/5541
+- Meine Telefonnummer lautet 03262/55413
+- Meine Telefonnummer lautet 02272/554122
+- Meine Telefonnummer lautet +4915785714927
+- meine Nummer ist 0171 123456
+- meine Nummer ist 02262/5541
+- meine Nummer ist 03262/55413
+- meine Nummer ist 02272/554122
+- Meine Telefonnummer ist +4915785714927
+- meine Telefonnummer ist 02262 28372
+- Meine Telefonnummer ist 02272/554122
+- meine Telefonnummer ist 03641 5 34 39 00
+- meine nummer lautet 0171 123456
+- 03641 5 34 39 00
+- Tel. 0821 6 30 70
+- 0821 8 15 28 28
+- 0821 70 10 03
+- 0228 3 04 12 94
+- 06133 4 92 19 67
+- 06181 4 58 28
+- 09262/55413
+- 38387-3737
+- 19287-3393
+- 22832-39393
+- 29203 - 01019
+- 20202 - 10192
+- 03948 / 29932
+- 29348 / 64532
