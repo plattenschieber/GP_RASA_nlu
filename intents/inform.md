@@ -1,4 +1,4 @@
-﻿## intent:inform
+## intent:inform
 <!-- Street Address -->
 - [374a](house_number)
 - meine addresse lautet [Klaprothstrasse](street) [569](house_number)
@@ -1165,7 +1165,7 @@
 - ich leb in [Reitweg](street)
 - strasse [merlostrasse](street)
 - [73](house_number) ist miene hausnummer
-- ich wohn in der [Deutz-Muelheimer Str.]
+- ich wohn in der [Deutz-Muelheimer Str.](street)
 - adresse: [Bilharzstr.](street) [899](house_number)
 - meine adresse heisst [Pfarrer-Moll-Strasse](street)
 - [Kalk-Muelheimer Str](street) [537](house_number) ist die adrese an dem ich wohne
@@ -7045,4 +7045,4 @@
 - \w*strasse\b|\w*weg\b|\w*straße\b|\w*gasse\b|\w*str\b\.|\w*str\b|\w*allee\b|\w*-Strasse\b|\w*-Straße\b|\w*-Str\b\.|\w*-Str\b <!-- Extrahiert alle Entity Values die mit "strasse", "straße", "gasse", "str", "str.", "weg" etc. enden, für die Entity street -->
 
 ## regex:house_number
-- \b[0-9]{1,4}[a-dA-D]{0,1}\b <!-- Extrahiert alle Entity Values die aus maximal vier Zeichen inkl. ein Buchstabe bestehen, für die Entity house_number -->
+- \b[0-9]{1,3}[a-dA-D]{0,1}\b <!-- Extrahiert alle Entity Values die aus maximal vier Zeichen inkl. ein Buchstabe bestehen, für die Entity house_number -->
