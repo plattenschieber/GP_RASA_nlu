@@ -6,7 +6,7 @@ pipeline:
   url: "http://duckling:8000"
   timezone: "Europe/Copenhange"
   locale: "de_DE"
-  dimensions: [ "time", "phone-number", "email", "number"]
+  dimensions: ["email"]
 - name: "intent_entity_featurizer_regex"
 - name: "ner_crf"
 - name: "ner_synonyms"
