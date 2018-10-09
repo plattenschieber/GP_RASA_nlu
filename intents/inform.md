@@ -1,4 +1,9 @@
 ﻿## intent:inform
+<!-- DO NOT REMOVE THESE UNLESS YOU KNOW WHAT YOU ARE DOING -->
+oov
+ich heiße oov
+ich bin oov
+es war oov
 <!-- Street Address -->
 - [374a](house_number)
 - meine addresse lautet [Klaprothstrasse](street) [569](house_number)
