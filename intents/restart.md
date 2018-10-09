@@ -1,0 +1,29 @@
+## intent:restart
+- abbrechen
+- stop
+- aufhören
+- beenden
+- quit
+- finish
+- end
+- abort
+- restart
+- programm beenden
+- programm abbrechen
+- chatbot beenden
+- programm stop
+- chatbot abbrechen
+- chatbot stop
+- bot stop
+- bot abbrechen
+- bot beenden
+- bot abort
+- bot restart
+- program abort
+- program restart
+- ich möchte den Bot gerne beenden
+- Ich würde gerne abbrechen
+- Das Programm beenden
+- Ich möchte von Vorne beginnen
+- Ich möchte neustarten
+- neustarten

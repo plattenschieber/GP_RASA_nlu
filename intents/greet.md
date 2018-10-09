@@ -10,7 +10,7 @@
 - guten tag
 - hey
 - Hey
-- huhu
+- huhu  
 - Huhu
 - nabend
 - Nabend
@@ -30,8 +30,95 @@
 - Ho
 - hoi
 - Hoi
-- blah
-- Blah
-- blub
-- Blub
-
+- Ahoi
+- Gott zum Gruße
+- Grueß Gott
+- Guten Morche
+- Guten Tag
+- halli hallo hallöchen
+- Hallo
+- moin
+- salut
+- Servus
+- Ahoi
+- alles klar
+- Aloha
+- Avedere
+- aavedere
+- avvedere
+- aveedere
+- aveddere
+- avedeere
+- avederre
+- avederee
+- Ay
+- aay
+- ayy
+- AAy
+- AYy
+- Bonjorno
+- bonjour
+- bonjuer
+- Buenos días
+- buon giorno
+- Ciao
+- dere
+- Dere
+- dobri den
+- dobrij den
+- gemoje
+- Gott zum Grusse
+- greez de
+- Gretzi
+- Grüazi
+- gruetzi
+- Grüezi
+- grüezi wohl
+- Grüß Dich
+- Grüß Gott
+- Grüß gott
+- Guten Tag
+- Habe die Ehre
+- Häh
+- Hai du Ei
+- Halleur
+- hallihallo
+- Hallöchen
+- Hallöchen
+- hallolalo
+- hallöle
+- Haudi
+- Hej
+- Hej
+- Hello
+- Hey
+- Hey ho 
+- hey ho
+- heyhey
+- hi hi
+- Hoi
+- Hoi du
+- hola
+- hhi
+- hii
+- aahoi
+- ahhoi
+- ahooi
+- ahoii
+- hhallöle
+- haallöle
+- halllöle
+- hallllöle
+- halöle
+- halllöle
+- halloele
+- hallölle
+- hallölee
+- gguten tag
+- guuten tag
+- gutten tag
+- guteen tag
+- gutenn tag
+- guten ttag
+- guten taag
+- guten tagg
