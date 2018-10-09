@@ -3684,7 +3684,6 @@
 - [+49152526915](telephone)
 - [+4715252691535](telephone)
 - [+47152526915](telephone)
-
 <!--Duckling Time-->
 - heute
 - morgen
