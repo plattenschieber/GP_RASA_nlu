@@ -8,3 +8,7 @@
 - [Datum melden](select_action:date)
 - [datum eingeben](select_action:date)
 - [Datum eingeben](select_action:date)
+- [Nummer eingeben](select_action:phone)
+- [nummer eingeben](select_action:phone)
+- [Telefonummer eingeben](select_action:phone)
+- [Telefon Nummer eingeben](select_action:phone)
