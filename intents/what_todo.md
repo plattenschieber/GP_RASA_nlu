@@ -12,3 +12,5 @@
 - [nummer eingeben](select_action:phone)
 - [Telefonummer eingeben](select_action:phone)
 - [Telefon Nummer eingeben](select_action:phone)
+- [Email eingeben](select_action:email)
+- [email eingeben](select_action:email)

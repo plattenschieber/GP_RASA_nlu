@@ -3711,6 +3711,7 @@
 - vorgestern Abend
 - abends
 - morgens
+
 <!--Duckling Phone-Number-->
 - Meine Telefonnummer lautet 0171 123456
 - Meine Telefonnummer lautet 02262/5541
@@ -3741,3 +3742,230 @@
 - 20202 - 10192
 - 03948 / 29932
 - 29348 / 64532
+
+<!--Duckling Email-->
+Meine Email ist blixem@verizon.net
+Meine Email ist pakaste@me.com
+Meine Email ist houle@sbcglobal.net
+Die Email lautet fmerges@sbcglobal.net
+Die Email lautet matty@hotmail.com
+Die Email lautet paina@aol.de
+meine mail ist nweaver@yahoo.com
+meine mail ist rhialto@yahoo.ca
+meine mail ist webinc@sbcglobal.net
+meine email ist paina@aol.com
+meine email ist rhialto@yahoo.ca
+meine email ist houle@sbcgleal.de
+die email lautet fmrges@sbcglobal.net
+die email lautet mfdty@hotmail.com
+die email lautet pdaina@aol.de
+Meine Mail ist nweaver@yahoso.com
+Meine Mail ist rhialdato@yahdoo.de
+Meine Mail ist wesbinc@sbcglobadal.net
+kalpol@gmail.de 
+biglou@msn.de
+howler@yahoo.com
+denism@aol.com
+ebassi@decast.net
+unreal@outlook.de
+gfody@optonline.net
+erc@pobox.de
+michael_warder@msn.de
+jgranos@hotmail.de
+sparkzilla@cableone.net
+lowkell@gmail.de
+mcgregor@uwo.ca
+tamtruong99@yahoo.de
+eve@thecsrgroup.de
+cyber_zac52@hotmail.de
+clarkfa@2mawnr.usmc.mil
+hsa@uzsi.cz
+tjnichols@fsbdial.co.uk
+daniel.hiestand@3-a.ch
+dale_turner@scotiacapital.de
+Sinister13thUrge@aol.de
+gary_san@yahoo.de
+stehlyja@1mawmag12.usmc.mil
+racorrea@mre.gov.br
+kangrc@gmail.de
+outremere@decast.net
+yvonne.deboer@international.gc.ca
+jbloore@aol.de
+arif@alfalahsec.de
+milan@eim.ae
+acbortree@yahoo.de
+dm_heilig@yahoo.com
+lazy7777@aol.com
+edp7@email.byu.edu
+calabacak@yahoo.com
+lml@larrymasonlee.us
+clark.bowen@agedwards.com
+fiveringers@cableone.net
+luxid@naver.com
+dealexander@dot.state.az.us
+k2bt@njdxa.org
+ylparker@yahoo.com
+nomoredotcom@digis.net
+gilblackwood@gmail.com
+m.anding@verizon.net
+dark_natter@sympatico.ca
+philpote@shaw.ca
+john.ptak@rbcdain.com
+tbright@gbcslaw.com
+hlaubacher@hotmail.com
+lehnertmr@iimef.usmc.mil
+Philip.Armour@defence.gov.au
+noahdendron@ozemail.com.au
+edksara@sbcglobal.net
+sblythe@eatel.net
+stevedownes@hotmail.com
+ahmet_sapmaz@yahoo.com
+kenneth.silvia@fadv.com
+nicholdr@iburst.co.za
+mbogart@cyveillance.com
+PocketAces@cableone.net
+Declan@jarry.us
+jwilliams1911@optusnet.com.au
+nsutton@pacifier.com
+michael.curry@uscellular.de
+Chris.Noak@AustinEnergy.de
+mfreis@rionet.de.br
+wedman@csc.de
+sjones@austin.rr.de
+gfog5905@swbell.net
+mrodgers@netik.de
+floweroflife01@hotmail.com
+CMAYFIELD@cityofallen.org
+warren_caragata@acdi-cida.gc.ca
+rbeckett@gts-gss.com
+javanwar@yahoo.com
+schmitz@tarby.com
+tfmcfarland@gmail.com
+rkalley@hydrocruiser.com
+okanesan@gmail.com
+kirk.garber@la.usda.gov
+mike.galusha@gmail.com
+silverghost_5@yahoo.com
+pjimwil@msn.com
+atotenhofer@gmail.com
+houseodawg@hotmail.com
+krkyle@nwonline.net
+julieo@cableone.net
+lizik_1999@yahoo.com
+srhorne@mchsi.com
+wasegaboah36@hotmail.com
+Fred.leute@suffolkcountyny.gov
+steve.mail1@comcast.net
+JeriRuth@aol.com
+gayle@graass.com
+kirkkeller@gmail.com
+daveseigel@hotmail.com
+richamarks@yahoo.com
+veramodanu@yahoo.com
+vic_lee@pacific.net.sg
+scm@eds.org
+jimkeyser1@yahoo.com
+Vintal@yandex.ru
+zek179@yahoo.com
+Tim9613366@aol.com
+wkeuffel@acm.org
+colin.march@morganstanley.com
+rjen@foreignlands.org
+jentercorp@yahoo.com
+zablackm@tiu.edu
+ykeskin@securitypeople.com
+shahriar@bangla.net
+yongyan_shi@yahoo.com
+tappis@yahoo.com
+spacetrav123@hotmail.com
+brisafabrizzi@hotmail.com
+cpask@mweb.co.za
+nataciv@hotmail.com
+thomas.gregory@ca-ib.com
+olsam@sbcglobal.net
+keithandbecky@prodigy.net
+pburke374@aol.com
+john.vitalo@barcap.com
+gadow@mailbag.com
+dchorna@bigfoot.com
+wwurm@nyc.rr.com
+genen@pobox.com
+bouldin@gmail.com
+PSMother@aol.com
+mpoole68@aol.com
+chatsomu2000@yahoo.com
+hcreborediker@bear.com
+fkbry@aol.com
+duniaj@camelot.rect.ucv.ve
+foxwhisker@grandecom.net
+metcalf@sympatico.ca
+pweiland@ca.rr.com
+HenryHSCheng@msn.com
+2rld8@earthlink.net
+katherineurquhart@hotmail.com
+phat@usc.edu
+mark.halstead@fl.ngb.army.mil
+russrascal@verizon.net
+dgadams@sandia.gov
+richards@latitude47.com
+cweber@clarkweberassociates.com
+abarr5@verizon.net
+whizdog@gmail.com
+ludovic.chaker@citigate.fr
+momaloney@comcast.net
+zewdie@hotmail.com
+malcolm@fiduciaryservicescorp.com
+slkaplan@yahoo.com
+rlubben@charter.net
+timocin.pervane@callidon.com
+cmkjr@thekelseygroup.com
+kris_2050@hotmail.com
+alison.hardacre@anz.com
+sam@primapanama.com
+derrell.lentz@lmco.com
+nasa_33@hotmail.com
+HarryMayo@netscape.com
+jamiepool@gmail.com
+Djenka018@hotmail.com
+wildgoose74@yahoo.com
+daveglegge@aol.com
+kardulig@erols.com
+geoffk@crystal.cirrus.com
+jrschaef@yahoo.com
+rhwang@bigpanda.com
+Frank_Yu@post.harvard.edu
+rbmartinv@hotmail.com
+dias@hot.ee
+alis@ugcs.caltech.edu
+bobholmgren@gmail.com
+supared@powernet.org
+mars090@hotmail.com
+L.Philipson@mailbox.ulcc.ac.uk
+pinevideo@mail.com
+el_coyotr@hotmail.com
+jdlindley@gmail.com
+velezc@navstarr.navy.mil
+paulr@gointerpro.com
+johnansar@yahoo.com
+jenkincm@usa-spaceops.com
+mulligan_j@comcast.net
+rchristianw@yahoo.com
+stephen.wilson4@us.army.mil
+tremblayje@csc-scc.gc.ca
+scraighc@sbcglobal.net
+nashj@nwc.navy.mil
+lkassidi@journalist.com
+srcott@keysdigital.com
+douglas.collins@ramstein.af.mil
+ryansmith@mail.utexas.edu
+jtalazus@cox.net
+pbquin@vcn.com
+glb@deainc.com
+jwolford@gordonrees.com
+wahibelminiawy@yahoo.com
+ccbp@terra.cl
+bulldg3@yahoo.com
+kibriabangla1071@yahoo.com
+maggie.mcguire@weyerhaeuser.com
+rhill@djplaw.com
+
