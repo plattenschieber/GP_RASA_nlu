@@ -3684,3 +3684,21 @@
 - [+49152526915](telephone)
 - [+4715252691535](telephone)
 - [+47152526915](telephone)
+<!--Duckling Time-->
+- heute
+- morgen
+- heute Nachmittag
+- um 1 Uhr
+- in drei Tagen
+- in zwei Wochen
+- Heute
+- Morgen
+- Heute Nachmittag 
+- Morgen um 1 Uhr
+- Morgen früh
+- morgen früh
+- morgen Nachmittag
+- morgen nachmittag
+- heute abend
+- morgen abend
+- morgen um 10
