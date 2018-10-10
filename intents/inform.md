@@ -1,4 +1,15 @@
-## intent:inform
+﻿## intent:inform
+<!-- SERIOUSLY STOP REMOVING THIS! -->
+oov
+Ich bin oov
+es war oov
+mein name ist oov
+oov oov
+oov is all you need
+oov makes the world go around
+hallo oov
+hey oov
+<!-- DO NOT REMOVE THE STUFF ABOVE THIS LINE, FINAL WARNING! -->
 <!-- Street Address -->
 - [374a](house_number)
 - meine addresse lautet [Klaprothstrasse](street) [569](house_number)
@@ -6485,4 +6496,3 @@
 
 ## regex:house_number
 - \b[0-9]{1,3}[a-dA-D]{0,1}\b <!-- Extrahiert alle Entity Values die aus maximal vier Zeichen inkl. ein Buchstabe bestehen, für die Entity house_number -->
->>>>>>> 01d7676f4eaf7ddf5c5f84cf943642734a44df81
