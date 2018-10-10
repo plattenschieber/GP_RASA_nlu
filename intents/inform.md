@@ -6072,232 +6072,298 @@
 - 29348 / 64532
 
 <!--Duckling Email-->
-Meine Email ist blixem@verizon.net
-Meine Email ist pakaste@me.com
-Meine Email ist houle@sbcglobal.net
-Die Email lautet fmerges@sbcglobal.net
-Die Email lautet matty@hotmail.com
-Die Email lautet paina@aol.de
-meine mail ist nweaver@yahoo.com
-meine mail ist rhialto@yahoo.ca
-meine mail ist webinc@sbcglobal.net
-meine email ist paina@aol.com
-meine email ist rhialto@yahoo.ca
-meine email ist houle@sbcgleal.de
-die email lautet fmrges@sbcglobal.net
-die email lautet mfdty@hotmail.com
-die email lautet pdaina@aol.de
-Meine Mail ist nweaver@yahoso.com
-Meine Mail ist rhialdato@yahdoo.de
-Meine Mail ist wesbinc@sbcglobadal.net
-kalpol@gmail.de 
-biglou@msn.de
-howler@yahoo.com
-denism@aol.com
-ebassi@decast.net
-unreal@outlook.de
-gfody@optonline.net
-erc@pobox.de
-michael_warder@msn.de
-jgranos@hotmail.de
-sparkzilla@cableone.net
-lowkell@gmail.de
-mcgregor@uwo.ca
-tamtruong99@yahoo.de
-eve@thecsrgroup.de
-cyber_zac52@hotmail.de
-clarkfa@2mawnr.usmc.mil
-hsa@uzsi.cz
-tjnichols@fsbdial.co.uk
-daniel.hiestand@3-a.ch
-dale_turner@scotiacapital.de
-Sinister13thUrge@aol.de
-gary_san@yahoo.de
-stehlyja@1mawmag12.usmc.mil
-racorrea@mre.gov.br
-kangrc@gmail.de
-outremere@decast.net
-yvonne.deboer@international.gc.ca
-jbloore@aol.de
-arif@alfalahsec.de
-milan@eim.ae
-acbortree@yahoo.de
-dm_heilig@yahoo.com
-lazy7777@aol.com
-edp7@email.byu.edu
-calabacak@yahoo.com
-lml@larrymasonlee.us
-clark.bowen@agedwards.com
-fiveringers@cableone.net
-luxid@naver.com
-dealexander@dot.state.az.us
-k2bt@njdxa.org
-ylparker@yahoo.com
-nomoredotcom@digis.net
-gilblackwood@gmail.com
-m.anding@verizon.net
-dark_natter@sympatico.ca
-philpote@shaw.ca
-john.ptak@rbcdain.com
-tbright@gbcslaw.com
-hlaubacher@hotmail.com
-lehnertmr@iimef.usmc.mil
-Philip.Armour@defence.gov.au
-noahdendron@ozemail.com.au
-edksara@sbcglobal.net
-sblythe@eatel.net
-stevedownes@hotmail.com
-ahmet_sapmaz@yahoo.com
-kenneth.silvia@fadv.com
-nicholdr@iburst.co.za
-mbogart@cyveillance.com
-PocketAces@cableone.net
-Declan@jarry.us
-jwilliams1911@optusnet.com.au
-nsutton@pacifier.com
-michael.curry@uscellular.de
-Chris.Noak@AustinEnergy.de
-mfreis@rionet.de.br
-wedman@csc.de
-sjones@austin.rr.de
-gfog5905@swbell.net
-mrodgers@netik.de
-floweroflife01@hotmail.com
-CMAYFIELD@cityofallen.org
-warren_caragata@acdi-cida.gc.ca
-rbeckett@gts-gss.com
-javanwar@yahoo.com
-schmitz@tarby.com
-tfmcfarland@gmail.com
-rkalley@hydrocruiser.com
-okanesan@gmail.com
-kirk.garber@la.usda.gov
-mike.galusha@gmail.com
-silverghost_5@yahoo.com
-pjimwil@msn.com
-atotenhofer@gmail.com
-houseodawg@hotmail.com
-krkyle@nwonline.net
-julieo@cableone.net
-lizik_1999@yahoo.com
-srhorne@mchsi.com
-wasegaboah36@hotmail.com
-Fred.leute@suffolkcountyny.gov
-steve.mail1@comcast.net
-JeriRuth@aol.com
-gayle@graass.com
-kirkkeller@gmail.com
-daveseigel@hotmail.com
-richamarks@yahoo.com
-veramodanu@yahoo.com
-vic_lee@pacific.net.sg
-scm@eds.org
-jimkeyser1@yahoo.com
-Vintal@yandex.ru
-zek179@yahoo.com
-Tim9613366@aol.com
-wkeuffel@acm.org
-colin.march@morganstanley.com
-rjen@foreignlands.org
-jentercorp@yahoo.com
-zablackm@tiu.edu
-ykeskin@securitypeople.com
-shahriar@bangla.net
-yongyan_shi@yahoo.com
-tappis@yahoo.com
-spacetrav123@hotmail.com
-brisafabrizzi@hotmail.com
-cpask@mweb.co.za
-nataciv@hotmail.com
-thomas.gregory@ca-ib.com
-olsam@sbcglobal.net
-keithandbecky@prodigy.net
-pburke374@aol.com
-john.vitalo@barcap.com
-gadow@mailbag.com
-dchorna@bigfoot.com
-wwurm@nyc.rr.com
-genen@pobox.com
-bouldin@gmail.com
-PSMother@aol.com
-mpoole68@aol.com
-chatsomu2000@yahoo.com
-hcreborediker@bear.com
-fkbry@aol.com
-duniaj@camelot.rect.ucv.ve
-foxwhisker@grandecom.net
-metcalf@sympatico.ca
-pweiland@ca.rr.com
-HenryHSCheng@msn.com
-2rld8@earthlink.net
-katherineurquhart@hotmail.com
-phat@usc.edu
-mark.halstead@fl.ngb.army.mil
-russrascal@verizon.net
-dgadams@sandia.gov
-richards@latitude47.com
-cweber@clarkweberassociates.com
-abarr5@verizon.net
-whizdog@gmail.com
-ludovic.chaker@citigate.fr
-momaloney@comcast.net
-zewdie@hotmail.com
-malcolm@fiduciaryservicescorp.com
-slkaplan@yahoo.com
-rlubben@charter.net
-timocin.pervane@callidon.com
-cmkjr@thekelseygroup.com
-kris_2050@hotmail.com
-alison.hardacre@anz.com
-sam@primapanama.com
-derrell.lentz@lmco.com
-nasa_33@hotmail.com
-HarryMayo@netscape.com
-jamiepool@gmail.com
-Djenka018@hotmail.com
-wildgoose74@yahoo.com
-daveglegge@aol.com
-kardulig@erols.com
-geoffk@crystal.cirrus.com
-jrschaef@yahoo.com
-rhwang@bigpanda.com
-Frank_Yu@post.harvard.edu
-rbmartinv@hotmail.com
-dias@hot.ee
-alis@ugcs.caltech.edu
-bobholmgren@gmail.com
-supared@powernet.org
-mars090@hotmail.com
-L.Philipson@mailbox.ulcc.ac.uk
-pinevideo@mail.com
-el_coyotr@hotmail.com
-jdlindley@gmail.com
-velezc@navstarr.navy.mil
-paulr@gointerpro.com
-johnansar@yahoo.com
-jenkincm@usa-spaceops.com
-mulligan_j@comcast.net
-rchristianw@yahoo.com
-stephen.wilson4@us.army.mil
-tremblayje@csc-scc.gc.ca
-scraighc@sbcglobal.net
-nashj@nwc.navy.mil
-lkassidi@journalist.com
-srcott@keysdigital.com
-douglas.collins@ramstein.af.mil
-ryansmith@mail.utexas.edu
-jtalazus@cox.net
-pbquin@vcn.com
-glb@deainc.com
-jwolford@gordonrees.com
-wahibelminiawy@yahoo.com
-ccbp@terra.cl
-bulldg3@yahoo.com
-kibriabangla1071@yahoo.com
-maggie.mcguire@weyerhaeuser.com
-rhill@djplaw.com
-
-
+- Meine Email ist blixem@verizon.net
+- Meine Email ist pakaste@me.com
+- Meine Email ist houle@sbcglobal.net
+- Die Email lautet fmerges@sbcglobal.net
+- Die Email lautet matty@hotmail.com
+- Die Email lautet paina@aol.de
+- meine mail ist nweaver@yahoo.com
+- meine mail ist rhialto@yahoo.ca
+- meine mail ist webinc@sbcglobal.net
+- meine email ist paina@aol.com
+- meine email ist rhialto@yahoo.ca
+- meine email ist houle@sbcgleal.de
+- die email lautet fmrges@sbcglobal.net
+- die email lautet mfdty@hotmail.com
+- die email lautet pdaina@aol.de
+- Meine Mail ist nweaver@yahoso.com
+- Meine Mail ist rhialdato@yahdoo.de
+- Meine Mail ist wesbinc@sbcglobadal.net
+- unter der email fmrges@sbcglobal.net
+- unter der email mfdty@hotmail.com
+- unter der email pdaina@aol.de
+- Unter der Email nweaver@yahoso.com
+- Unter der Email rhialdato@yahdoo.de
+- Unter der Email wesbinc@sbcglobadal.net
+- Meine Email ist sbosze@gmail.com
+- Meine Email ist fred.feistmann@rbc.com
+- Meine Email ist tim@farrell.net
+- Meine Email ist uroslampret@hotmail.com
+- Meine Email ist johnr@westchestercapital.com
+- Meine Email ist hgraff@aol.com
+- Meine Email ist mussgiller@aol.com
+- Meine Email ist pizcorp@aol.com
+- Meine Email ist achibber@hotmail.com
+- Meine Email ist serbanliliana@hotmail.com
+- Die Email lautet mkusin@hal-pc.org
+- Die Email lautet scott@oceanmedia.net
+- Die Email lautet jlbarnes235@yahoo.com
+- Die Email lautet b_n8@hotmail.com
+- Die Email lautet dshap74@aol.com
+- Die Email lautet anthony.egan@pfizer.com
+- Die Email lautet lawrence.holley@sanantonio.govzarekholley
+- Die Email lautet IHAnderson@aol.com
+- Die Email lautet satrio@concord-consulting.com
+- Die Email lautet jasinder@yahoo.com
+- Die Email lautet rosspaul@bellsouth.net
+- meine mail ist RealG@aol.com
+- meine mail ist ebacus@gmail.com
+- meine mail ist Jeanne@itag.elcom.ru
+- meine mail ist ravenfloresusa@msn.com
+- meine mail ist ddf@greenwich.com
+- meine mail ist heiko@awm.co.za
+- meine mail ist james.downs@associates.hq.dhs.com
+- meine mail ist ciminomt@hotmail.com
+- meine mail ist sanderag@yahoo.com
+- meine mail ist gary.chapman@mail.utexas.edu
+- meine mail ist mikefarinha@hotmail.com
+- meine mail ist tomread@snet.net
+- meine email ist foxhaven@bellsouth.net
+- meine email ist figueroajo@hotmail.com
+- meine email ist G_N_Love@bigpond.com
+- meine email ist NephiOne@aol.com
+- meine email ist robev@centurytel.net
+- meine email ist jmichael424@yahoo.com
+- meine email ist pernstar@hotmail.com
+- meine email ist searunrd@hotmail.com
+- meine email ist dlstev@adelphia.net
+- meine email ist kroberts@drs.ca
+- die email lautet springeh@spawar.navy.mil
+- die email lautet ghoyt1@twcny.rr.com
+- die email lautet dennisk@charter.net
+- die email lautet raurie1@yahoo.com
+- die email lautet hotboy_15_01@yahoo.com
+- die email lautet goliath8541@aol.com
+- die email lautet gacohen@acm.org
+- die email lautet michael.giroud@us.army.mil
+- die email lautet ncolnpk@gmail.com
+- die email lautet sky-goose@nifty.com
+- die email lautet slimface10@hotmail.com
+- die email lautet una_chata@yahoo.com
+- Meine Mail ist nilekani@msn.com
+- Meine Mail ist yichian@singnet.com.sg
+- Meine Mail ist jonasselenis@hotmail.com
+- Meine Mail ist rstig61@cox.net
+- Meine Mail ist stevie.hamilton@usdoj.gov; diplomatg7@msn.com
+- Meine Mail ist prosa@ksu.ru
+- Meine Mail ist jblanch1@earthlink.net
+- Meine Mail ist nits3201@uni-trier.de
+- Meine Mail ist makabusi@pacbell.net
+- Meine Mail ist maxinelauter@hotmail.com
+- Meine Mail ist fflickinger@hotmail.com
+- Meine Mail ist antony.adshead@dsl.pipex.com
+- Meine Mail ist Ray66f@aol.com
+- email
+- erc@pobox.com
+- michael_warder@msn.com
+- jgranos@hotmail.com
+- sparkzilla@cableone.net
+- lowkell@gmail.com
+- mcgregor@uwo.ca
+- tamtruong99@yahoo.com
+- eve@thecsrgroup.com
+- cyber_zac52@hotmail.com
+- clarkfa@2mawnr.usmc.mil
+- hsa@uzsi.cz
+- tjnichols@fsbdial.co.uk
+- daniel.hiestand@3-a.ch
+- dale_turner@scotiacapital.com
+- Sinister13thUrge@aol.com
+- gary_san@yahoo.com
+- stehlyja@1mawmag12.usmc.mil
+- racorrea@mre.gov.br
+- kangrc@gmail.com
+- outremere@comcast.net
+- yvonne.deboer@international.gc.ca
+- jbloore@aol.com
+- arif@alfalahsec.com
+- milan@eim.ae
+- acbortree@yahoo.com
+- dm_heilig@yahoo.com
+- lazy7777@aol.com
+- edp7@email.byu.edu
+- calabacak@yahoo.com
+- lml@larrymasonlee.us
+- clark.bowen@agedwards.com
+- fiveringers@cableone.net
+- uxid@naver.com
+- dealexander@dot.state.az.us
+- k2bt@njdxa.org
+- ylparker@yahoo.com
+- nomoredotcom@digis.net
+- gilblackwood@gmail.com
+- m.anding@verizon.net
+- dark_natter@sympatico.ca
+- philpote@shaw.ca
+- john.ptak@rbcdain.com
+- tbright@gbcslaw.com
+- hlaubacher@hotmail.com
+- lehnertmr@iimef.usmc.mil
+- Philip.Armour@defence.gov.au
+- noahdendron@ozemail.com.au
+- dksara@sbcglobal.net
+- sblythe@eatel.net
+- stevedownes@hotmail.com
+- ahmet_sapmaz@yahoo.com
+- kenneth.silvia@fadv.com
+- nicholdr@iburst.co.za
+- mbogart@cyveillance.com
+- PocketAces@cableone.net
+- Declan@jarry.us
+- jwilliams1911@optusnet.com.au
+- nsutton@pacifier.com
+- michael.curry@uscellular.com
+- Chris.Noak@AustinEnergy.Com
+- mfreis@rionet.com.br
+- wedman@csc.com
+- sjones@austin.rr.com
+- gfog5905@swbell.net
+- mrodgers@netik.com
+- floweroflife01@hotmail.com
+- CMAYFIELD@cityofallen.org
+- warren_caragata@acdi-cida.gc.ca
+- rbeckett@gts-gss.com
+- javanwar@yahoo.com
+- schmitz@tarby.com
+- fmcfarland@gmail.com
+- rkalley@hydrocruiser.com
+- okanesan@gmail.com
+- kirk.garber@la.usda.gov
+- mike.galusha@gmail.com
+- silverghost_5@yahoo.com
+- pjimwil@msn.com
+- atotenhofer@gmail.com
+- houseodawg@hotmail.com
+- krkyle@nwonline.net
+- julieo@cableone.net
+- lizik_1999@yahoo.com
+- srhorne@mchsi.com
+- wasegaboah36@hotmail.com
+- Fred.leute@suffolkcountyny.gov
+- steve.mail1@comcast.net
+- JeriRuth@aol.com
+- gayle@graass.com
+- kirkkeller@gmail.com
+- daveseigel@hotmail.com
+- richamarks@yahoo.com
+- veramodanu@yahoo.com
+- vic_lee@pacific.net.sg
+- scm@eds.org
+- jimkeyser1@yahoo.com
+- Vintal@yandex.ru
+- zek179@yahoo.com
+- Tim9613366@aol.com
+- wkeuffel@acm.org
+- colin.march@morganstanley.com
+- rjen@foreignlands.org
+- jentercorp@yahoo.com
+- zablackm@tiu.edu
+- keskin@securitypeople.com
+- hahriar@bangla.net
+- yongyan_shi@yahoo.com
+- tappis@yahoo.com
+- spacetrav123@hotmail.com
+- brisafabrizzi@hotmail.com
+- cpask@mweb.co.za
+- nataciv@hotmail.com
+- thomas.gregory@ca-ib.com
+- olsam@sbcglobal.net
+- keithandbecky@prodigy.net
+- pburke374@aol.com
+- john.vitalo@barcap.com
+- gadow@mailbag.com
+- dchorna@bigfoot.com
+- wwurm@nyc.rr.com
+- enen@pobox.com
+- bouldin@gmail.com
+- PSMother@aol.com
+- mpoole68@aol.com
+- chatsomu2000@yahoo.com
+- hcreborediker@bear.com
+- fkbry@aol.com
+- duniaj@camelot.rect.ucv.ve
+- foxwhisker@grandecom.net
+- metcalf@sympatico.ca
+- pweiland@ca.rr.com
+- HenryHSCheng@msn.com
+- 2rld8@earthlink.net
+- katherineurquhart@hotmail.com
+- phat@usc.edu
+- mark.halstead@fl.ngb.army.mil
+- russrascal@verizon.net
+- dgadams@sandia.gov
+- richards@latitude47.com
+- cweber@clarkweberassociates.com
+- abarr5@verizon.net
+- hizdog@gmail.com
+- udovic.chaker@citigate.fr
+- omaloney@comcast.net
+- zewdie@hotmail.com
+- malcolm@fiduciaryservicescorp.com
+- slkaplan@yahoo.com
+- rlubben@charter.net
+- timocin.pervane@callidon.com
+- cmkjr@thekelseygroup.com
+- kris_2050@hotmail.com
+- alison.hardacre@anz.com
+- sam@primapanama.com
+- derrell.lentz@lmco.com
+- nasa_33@hotmail.com
+- HarryMayo@netscape.com
+- jamiepool@gmail.com
+- Djenka018@hotmail.com
+- wildgoose74@yahoo.com
+- daveglegge@aol.com
+- kardulig@erols.com
+- geoffk@crystal.cirrus.com
+- jrschaef@yahoo.com
+- rhwang@bigpanda.com
+- Frank_Yu@post.harvard.edu
+- rbmartinv@hotmail.com
+- dias@hot.ee
+- alis@ugcs.caltech.edu
+- bobholmgren@gmail.com
+- supared@powernet.org
+- mars090@hotmail.com
+- L.Philipson@mailbox.ulcc.ac.uk
+- pinevideo@mail.com
+- el_coyotr@hotmail.com
+- jdlindley@gmail.com
+- velezc@navstarr.navy.mil
+- paulr@gointerpro.com
+- ohnansar@yahoo.com
+- jenkincm@usa-spaceops.com
+- mulligan_j@comcast.net
+- rchristianw@yahoo.com
+- stephen.wilson4@us.army.mil
+- tremblayje@csc-scc.gc.ca
+- scraighc@sbcglobal.net
+- nashj@nwc.navy.mil
+- lkassidi@journalist.com
+- rcott@keysdigital.com
+- ouglas.collins@ramstein.af.mil
+- ransmith@mail.utexas.edu
+- jtlazus@cox.net
+- pbqin@vcn.com
+- glb@deainc.com
+- jwolford@gordonrees.com
+- wahibelminiawy@yahoo.com
+- ccbp@terra.cl
+- bulldg3@yahoo.com
+- kibriabangla1071@yahoo.com
+- maggie.mcguire@weyerhaeuser.com
+- rhill@djplaw.com
 
 ## regex:street
 - \w*strasse\b|\w*weg\b|\w*straße\b|\w*gasse\b|\w*str\b|\w*allee\b|\w*-Strasse\b|\w*-Straße\b|\w*-Str\b <!-- Extrahiert alle Entity Values die mit "strasse", "straße", "gasse", "str", "weg" etc  enden, für die Entity street -->
