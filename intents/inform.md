@@ -6496,3 +6496,4 @@ hey oov
 
 ## regex:house_number
 - \b[0-9]{1,3}[a-dA-D]{0,1}\b <!-- Extrahiert alle Entity Values die aus maximal vier Zeichen inkl. ein Buchstabe bestehen, für die Entity house_number -->
+>>>>>>> 01d7676f4eaf7ddf5c5f84cf943642734a44df81
