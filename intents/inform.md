@@ -1,4 +1,4 @@
-﻿## intent:inform
+## intent:inform
 <!-- SERIOUSLY STOP REMOVING THIS! -->
 - oov
 - Ich bin oov
