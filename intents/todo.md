@@ -1,4 +1,10 @@
 ## intent:what_todo
+- [Schaden melden](select_action:report_damage)
+- [Schade melden](select_action:report_damage)
+- [schaden melden](select_action:report_damage)
+- [schade melden](select_action:report_damage)
+- [Unfall melden](select_action:report_damage)
+- [unfall melden](select_action:report_damage)
 - ich möchte einen [Schaden melden](select_action:report_damage)
 - ich möchte einen [Schaden melden](select_action:report_damage)
 - ich möchte einen [Schaden melden](select_action:report_damage)
@@ -29,3 +35,7 @@
 - ich möckte einen [anruf vereinbaren](select_action:call)
 - ich möcte einen [anruf vereinbaren](select_action:call)
 - ich möhte einen [anruf vereinbaren](select_action:call)
+- [Anruf vereinbaren](select_action:call)
+- [anruf vereinbaren](select_action:call)
+- [Rückruf vereinbaren](select_action:call)
+- [rückruf vereinbaren](select_action:call)
