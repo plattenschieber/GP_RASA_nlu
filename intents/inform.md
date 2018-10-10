@@ -7,8 +7,6 @@ mein name ist oov
 oov oov
 oov is all you need
 oov makes the world go around
-hallo oov
-hey oov
 <!-- DO NOT REMOVE THE STUFF ABOVE THIS LINE, FINAL WARNING! -->
 <!-- Street Address -->
 - [374a](house_number)
