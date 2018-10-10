@@ -1,12 +1,12 @@
 ﻿## intent:inform
 <!-- SERIOUSLY STOP REMOVING THIS! -->
-oov
-Ich bin oov
-es war oov
-mein name ist oov
-oov oov
-oov is all you need
-oov makes the world go around
+- oov
+- Ich bin oov
+- es war oov
+- mein name ist oov
+- oov oov
+- oov is all you need
+- oov makes the world go around
 <!-- DO NOT REMOVE THE STUFF ABOVE THIS LINE, FINAL WARNING! -->
 <!-- Street Address -->
 - meine addresse lautet [Klaprothstrasse](street) [569](house_number)
