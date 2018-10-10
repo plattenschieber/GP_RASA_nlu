@@ -1,0 +1,60 @@
+## intent:restart
+- abbrechen
+- aabbrechen
+- abbbrechen
+- abbbrechen
+- abbrrechen
+- abbreechen
+- abbrecchen
+- abbrecken
+- abbrecen
+- abbrehen
+- abbrechhen
+- abbrecheen
+- stop
+- sstop
+- sttop
+- stoop
+- stopp
+- aufhören
+- aaufhören
+- auufhören
+- auphhören
+- auffhören
+- aufhhören
+- aufhoeren
+- aufhörren
+- aufhöreen
+- aufhörenn
+- beenden
+- bbeenden
+- beeenden
+- beeenden
+- beennden
+- beendden
+- beendeen
+- beendenn
+- quit
+- finish
+- end
+- abort
+- restart
+- programm beenden
+- programm abbrechen
+- chatbot beenden
+- programm stop
+- chatbot abbrechen
+- chatbot stop
+- bot stop
+- bot abbrechen
+- bot beenden
+- bot abort
+- bot restart
+- program abort
+- program restart
+- ich möchte den Bot gerne beenden
+- Ich würde gerne abbrechen
+- Das Programm beenden
+- Ich möchte von Vorne beginnen
+- Ich möchte neustarten
+- neustarten
