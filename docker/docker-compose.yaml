@@ -4,13 +4,15 @@ services:
   chatbot-nlu: 
     image: docker.nexus.gpchatbot.archi-lab.io/chatbot/nlu:latest
     networks:
+      #nlu server joins network 'chatbot' and 'nlu'
       - chatbot
       - nlu
     ports:
       - "5000:5000"
-  duckling:
+  duckling: # needed for entity extraction
     image: rasa/duckling:latest
     networks:
+      # joins network 'nlu' to communicate with the nlu.
       - nlu
 networks:
   chatbot:
