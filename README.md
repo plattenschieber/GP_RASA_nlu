@@ -8,7 +8,7 @@ The main part of this project are the intents which are test data to trail the n
 * *tests* contains example test files for some intents.
 * *train_nlu.py* script which will train a model with all given intents.
 
-## Deploy and run
+## Deploy and run the project
 
 ### locally
 First you need to install the requirements by using the provided 'requirements.txt'. To achieve this you can run the following command:
