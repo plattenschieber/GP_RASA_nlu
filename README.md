@@ -1,6 +1,7 @@
 ﻿# Natural Language Understanding
 This project is based on rasa.ai NLU. It is used to predict the intents for our core server based on natural language. For more details on the core project, lookup the following links [KFZ-Core](https://bitbucket.gpchatbot.archi-lab.io/projects/CHATBOT/repos/kfz-chatbot/browse) or [Core](https://bitbucket.gpchatbot.archi-lab.io/projects/CHATBOT/repos/core/browse).
 The main part of this project are the intents which are test data to trail the nlu in order to understand and predict the user intents.
+
 ## Structure
 * *intents* contains training data, each intent got a single file to separate them.
 * *config.yaml* describes the configuration of the nlu, there are additional information about data processing and entity extraction.
